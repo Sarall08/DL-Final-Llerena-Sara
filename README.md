@@ -5,81 +5,40 @@ Cada estudiante debe crear su propio repositorio a partir de esta plantilla y tr
 
 ---
 
-## Pasos para usar esta plantilla (OBLIGATORIO)
+# 📦 Predicción de Retrasos en Logística Retail con Deep Learning
 
-### 1. Crear tu repositorio personal
+![Status](https://img.shields.io/badge/Status-Finalizado-success)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow/Keras-orange)
 
-1. Ir a este repositorio plantilla
-2. Hacer clic en el botón verde **“Use this template”**
-3. Crear un nuevo repositorio con el nombre:
+## 🎯 Objetivo del Proyecto
+Este proyecto desarrolla una red neuronal artificial para predecir la probabilidad de retraso en las entregas de una empresa de retail. El objetivo es transformar una logística reactiva en una estrategia preventiva basada en datos.
 
-   `AML-Final-Apellido-Nombre`
+## 📊 Resumen de Resultados
+* **Precisión (Accuracy):** [97%]
+* **Métrica Clave:** Alta sensibilidad (Recall) en la detección de "Late Delivery".
+* **Hallazgo Principal:** El modo de envío estándar y la planificación de días de despacho son los factores con mayor impacto en el cumplimiento.
 
-Ejemplo: `AML-Final-Marino-C.`
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Python
+* **Librerías:** Pandas, NumPy, Matplotlib, Seaborn
+* **Deep Learning:** TensorFlow / Keras
+* **Entorno:** Google Colab
 
----
+## 📂 Estructura del Repositorio
+* `notebooks/`: Contiene el archivo `final_project.ipynb` con todo el código y análisis.
+* `data/`: (Opcional) Referencia al dataset utilizado.
+* `figures/`: Gráficas generadas durante el EDA y evaluación.
 
-### 2. Trabajar SOLO en el notebook desde Colab
+## 🚀 Cómo utilizar este proyecto
+1. Clona el repositorio.
+2. Abre el archivo en `notebooks/final_project.ipynb` usando Google Colab.
+3. Ejecuta las celdas en orden secuencial.
 
-1. En tu repositorio, entrar a la carpeta `notebooks/`
-2. Abrir el archivo: `final_project.ipynb`
-3. Hacer clic en **“Open in Colab”**
-4. Desarrollar todo tu proyecto dentro de este notebook
-
-No es necesario usar comandos de git ni terminal.
-
----
-
-### 3. Guardar cambios directamente en GitHub
-
-Dentro de Colab:
-
-* Ir a **File → Save a copy in GitHub**
-* Seleccionar tu repositorio personal
-* Confirmar sobrescribir el notebook
-
-De esta forma, tu trabajo quedará guardado automáticamente en GitHub.
-
----
-
-## Estructura del repositorio (NO modificar)
-
-* `notebooks/` → Notebook principal del proyecto
-* `src/` → Código auxiliar (opcional)
-* `data/` → Solo instrucciones del dataset (no subir datos grandes)
-* `results/` → Resultados y métricas
-* `figures/` → Gráficos generados
-* `report/` → Reporte final (PDF o Markdown)
-
-Los estudiantes deben principalmente trabajar en:
-`notebooks/final_project.ipynb`
+## 📺 Presentación del Proyecto
+Puedes ver la explicación detallada y la demo de este proyecto en el siguiente video:
+[ENLACE A TU VIDEO DE YOUTUBE AQUÍ]
 
 ---
-
-## Reglas importantes
-
-* No subir datasets grandes o datos sensibles
-* El notebook debe poder ejecutarse en Colab
-* Incluir visualizaciones y evaluación del modelo
-* Mantener el código organizado y reproducible
-
----
-
-## Entrega final
-
-Cada estudiante deberá enviar:
-
-1. El enlace de su repositorio en GitHub
-2. El notebook final completamente ejecutable
-3. (Opcional) un tag final: `v1.0-final`
-
----
-
-## Objetivo pedagógico
-
-Esta estructura busca que los estudiantes:
-
-* Practiquen reproducibilidad en ML
-* Mantengan organización profesional del código
-* Usen GitHub como portafolio académico
-* Integren experimentación, evaluación y visualización en un único flujo reproducible
+**Autora:** Sara Llerena Sevilla  
+**Programa:** Especialización en Big Data Analytics & Deep Learning
