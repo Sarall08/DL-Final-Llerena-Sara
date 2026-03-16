@@ -37,7 +37,7 @@ Este proyecto desarrolla una red neuronal artificial para predecir la probabilid
 
 ## 📺 Presentación del Proyecto
 Puedes ver la explicación detallada y la demo de este proyecto en el siguiente video:
-............
+(https://youtu.be/8mINlIAfRWk)
 
 ---
 **Autora:** Sara Llerena Sevilla  
